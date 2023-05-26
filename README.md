@@ -19,6 +19,6 @@ The project is divided in 5 main parts:
 5) Conclusion - were we interpret the obtained results and do some considerations on how to improve the price prediction results
 
 
-To build this project it was used python along with some of its libraries, such as Pandas, Numpy, Matplotlib, Seaborn and Scikit-learn, and the Google Colab notebook. Feel free to contact me through my linkedin page if you have any question.
+To build this project it was used Python along with some of its libraries, such as Pandas, Numpy, Matplotlib, Seaborn and Scikit-learn, and the Google Colab notebook. Feel free to contact me through my linkedin page if you have any question.
 
 Project author: André Bernardes (https://www.linkedin.com/in/andrebernardes99/)
